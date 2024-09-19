@@ -12,6 +12,8 @@
 
 :penguin:[Moneybox](PG_Play/Moneybox.md)
 
+:penguin:[Inclusiveness](PG_Play/Inclusiveness.md)
+
 ### Intermediate
 
 ### Hard
