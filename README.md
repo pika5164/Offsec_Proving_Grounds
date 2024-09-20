@@ -48,6 +48,8 @@
 
 ### Intermediate
 
+:penguin:[DC-9](PG_Play/DC-9.md)
+
 :penguin:[Stapler](PG_Play/Stapler.md)
 
 ### Hard
