@@ -14,6 +14,8 @@
 
 :penguin:[DC-1](PG_Play/DC-1.md)
 
+:penguin:[Election1](PG_Play/Election1.md)
+
 :penguin:[Empire-breakout](PG_Play/Empire-breakout.md)
 
 :penguin:[FunboxEasy](PG_Play/FunboxEasy.md)
