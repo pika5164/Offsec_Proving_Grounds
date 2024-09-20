@@ -52,6 +52,8 @@
 
 :penguin:[Shakabrah](PG_Play/Shakabrah.md)
 
+:penguin:[Solstice](PG_Play/Solstice.md)
+
 :penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
 
 :penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
