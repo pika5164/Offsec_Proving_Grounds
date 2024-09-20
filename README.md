@@ -16,6 +16,8 @@
 
 :penguin:[Inclusiveness](PG_Play/Inclusiveness.md)
 
+:penguin:[InfosecPrep](PG_Play/InfosecPrep.md)
+
 :penguin:[Moneybox](PG_Play/Moneybox.md)
 
 :penguin:[OnSystemShellDredd](PG_Play/OnSystemShellDredd.md)
