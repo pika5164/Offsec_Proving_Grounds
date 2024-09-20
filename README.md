@@ -18,6 +18,8 @@
 
 :penguin:[FunboxRookie](PG_Play/FunboxRookie.md)
 
+:penguin:[Gaara](PG_Play/Gaara.md)
+
 :penguin:[Inclusiveness](PG_Play/Inclusiveness.md)
 
 :penguin:[InfosecPrep](PG_Play/InfosecPrep.md)
