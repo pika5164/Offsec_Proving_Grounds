@@ -60,6 +60,8 @@
 
 :penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
 
+:penguin:[Vegeta1](PG_Play/Vegeta1.md)
+
 ### Intermediate
 
 :penguin:[DC-9](PG_Play/DC-9.md)
