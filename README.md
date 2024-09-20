@@ -9,17 +9,20 @@
 ## PG Play
 
 ### Easy
-:penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
 
-:penguin:[Moneybox](PG_Play/Moneybox.md)
+:penguin:[DC-1](PG_Play/DC-1.md)
+
+:penguin:[FunboxEasy](PG_Play/FunboxEasy.md)
 
 :penguin:[Inclusiveness](PG_Play/Inclusiveness.md)
 
+:penguin:[Moneybox](PG_Play/Moneybox.md)
+
 :penguin:[Sar](PG_Play/Sar.md)
 
-:penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
+:penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
 
-:penguin:[DC-1](PG_Play/DC-1.md)
+:penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
 
 ### Intermediate
 
