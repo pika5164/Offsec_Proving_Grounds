@@ -18,6 +18,8 @@
 
 :penguin:[Moneybox](PG_Play/Moneybox.md)
 
+:penguin:[OnSystemShellDredd](PG_Play/OnSystemShellDredd.md)
+
 :penguin:[Sar](PG_Play/Sar.md)
 
 :penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
