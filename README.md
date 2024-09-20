@@ -40,6 +40,8 @@
 
 :penguin:[Sar](PG_Play/Sar.md)
 
+:penguin:[Stapler](PG_Play/Stapler.md)
+
 :penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
 
 :penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
