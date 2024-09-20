@@ -10,6 +10,8 @@
 
 ### Easy
 
+:penguin:[Blogger](PG_Play/Blogger.md)
+
 :penguin:[CyberSploit1](PG_Play/CyberSploit1.md)
 
 :penguin:[DC-1](PG_Play/DC-1.md)
