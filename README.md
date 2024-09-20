@@ -49,3 +49,5 @@
 :penguin:[Stapler](PG_Play/Stapler.md)
 
 ### Hard
+
+:penguin:[InsanityHosting](PG_Play/InsanityHosting.md)
