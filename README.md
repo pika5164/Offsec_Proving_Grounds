@@ -46,6 +46,8 @@
 
 :penguin:[OnSystemShellDredd](PG_Play/OnSystemShellDredd.md)
 
+:penguin:[Photographer](PG_Play/Photographer.md)
+
 :penguin:[PyExp](PG_Play/PyExp.md)
 
 :penguin:[Sar](PG_Play/Sar.md)
