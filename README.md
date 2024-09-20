@@ -32,6 +32,8 @@
 
 :penguin:[Moneybox](PG_Play/Moneybox.md)
 
+:penguin:[Monitoring](PG_Play/Monitoring.md)
+
 :penguin:[OnSystemShellDredd](PG_Play/OnSystemShellDredd.md)
 
 :penguin:[Sar](PG_Play/Sar.md)
