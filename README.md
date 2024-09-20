@@ -18,6 +18,8 @@
 
 :penguin:[FunboxEasy](PG_Play/FunboxEasy.md)
 
+:penguin:[FunboxEasyEnum](PG_Play/FunboxEasyEnum.md)
+
 :penguin:[FunboxRookie](PG_Play/FunboxRookie.md)
 
 :penguin:[Gaara](PG_Play/Gaara.md)
