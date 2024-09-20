@@ -18,6 +18,8 @@
 
 :penguin:[DC-1](PG_Play/DC-1.md)
 
+:penguin:[DriftingBlues6](PG_Play/DriftingBlues6.md)
+
 :penguin:[Election1](PG_Play/Election1.md)
 
 :penguin:[Empire-breakout](PG_Play/Empire-breakout.md)
