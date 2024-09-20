@@ -26,6 +26,8 @@
 
 :penguin:[InfosecPrep](PG_Play/InfosecPrep.md)
 
+:penguin:[Katana](PG_Play/Katana.md)
+
 :penguin:[Moneybox](PG_Play/Moneybox.md)
 
 :penguin:[OnSystemShellDredd](PG_Play/OnSystemShellDredd.md)
