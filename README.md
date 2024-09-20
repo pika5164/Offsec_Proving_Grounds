@@ -14,6 +14,8 @@
 
 :penguin:[FunboxEasy](PG_Play/FunboxEasy.md)
 
+:penguin:[FunboxRookie](PG_Play/FunboxRookie.md)
+
 :penguin:[Inclusiveness](PG_Play/Inclusiveness.md)
 
 :penguin:[InfosecPrep](PG_Play/InfosecPrep.md)
