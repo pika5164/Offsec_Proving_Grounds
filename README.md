@@ -19,6 +19,8 @@
 
 :penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
 
+:penguin:[DC-1](PG_Play/DC-1.md)
+
 ### Intermediate
 
 ### Hard
