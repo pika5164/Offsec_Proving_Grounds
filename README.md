@@ -82,6 +82,8 @@
 
 ### Easy
 
+:penguin:[Bratarina](PG_Practice/Linux/Bratarina.md)
+
 :penguin:[Codo](PG_Practice/Linux/Codo.md)
 
 :penguin:[Flimsy](PG_Practice/Linux/Flimsy.md)
