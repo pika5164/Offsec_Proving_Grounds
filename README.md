@@ -6,9 +6,9 @@
 
 :muscle:[Proving Grounds Practice](https://portal.offsec.com/labs/practice)
 
-## PG Play
+:fire::fire::fire: PG Play
 
-### Easy
+## Easy
 
 :penguin:[Amaterasu](PG_Play/Amaterasu.md)
 
@@ -62,12 +62,34 @@
 
 :penguin:[Vegeta1](PG_Play/Vegeta1.md)
 
-### Intermediate
+## Intermediate
 
 :penguin:[DC-9](PG_Play/DC-9.md)
 
 :penguin:[Stapler](PG_Play/Stapler.md)
 
-### Hard
+## Hard
 
 :penguin:[InsanityHosting](PG_Play/InsanityHosting.md)
+
+---
+
+:muscle::muscle::muscle: PG Practice
+
+## Linux
+
+### Easy
+
+### Intermediate
+
+### Hard
+
+## Windows
+
+### Easy
+
+:computer:[Kevin](Windows/Kevin.md)
+
+### Intermediate
+
+### Hard
