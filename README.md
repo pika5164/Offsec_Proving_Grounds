@@ -86,6 +86,8 @@
 
 :penguin:[Bratarina](PG_Practice/Linux/Bratarina.md)
 
+:penguin:[ClamAV](PG_Practice/Linux/ClamAV.md)
+
 :penguin:[Codo](PG_Practice/Linux/Codo.md)
 
 :penguin:[Exfiltrated](PG_Practice/Linux/Exfiltrated.md)
