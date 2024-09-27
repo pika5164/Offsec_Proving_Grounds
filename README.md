@@ -112,6 +112,8 @@
 
 :penguin:[Twiggy](PG_Practice/Linux/Twiggy.md)
 
+:penguin:[Wheels](PG_Practice/Linux/Wheels.md)
+
 :penguin:[Wombo](PG_Practice/Linux/Wombo.md)
 
 ### Intermediate
