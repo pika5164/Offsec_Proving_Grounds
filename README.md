@@ -96,6 +96,8 @@
 
 :computer:[Kevin](Windows/Kevin.md)
 
+:computer:[Squid](Windows/Squid.md)
+
 ### Intermediate
 
 ### Hard
