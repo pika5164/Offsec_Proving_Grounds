@@ -84,6 +84,8 @@
 
 :penguin:[Codo](PG_Practice/Linux/Codo.md)
 
+:penguin:[Flimsy](PG_Practice/Linux/Flimsy.md)
+
 :penguin:[Hub](PG_Practice/Linux/Hub.md)
 
 :penguin:[Levram](PG_Practice/Linux/Levram.md)
