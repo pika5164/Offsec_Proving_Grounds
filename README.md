@@ -96,6 +96,8 @@
 
 :penguin:[Levram](PG_Practice/Linux/Levram.md)
 
+:penguin:[Wombo](PG_Practice/Linux/Wombo.md)
+
 ### Intermediate
 
 ### Hard
