@@ -124,6 +124,8 @@
 
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
+:penguin:[pyLoader](PG_Practice/Linux/pyLoader.md)
+
 ### Hard
 
 ## Windows
