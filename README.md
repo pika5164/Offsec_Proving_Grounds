@@ -82,6 +82,8 @@
 
 ### Easy
 
+:penguin:[Astronaut](PG_Practice/Linux/Astronaut.md)
+
 :penguin:[Bratarina](PG_Practice/Linux/Bratarina.md)
 
 :penguin:[Codo](PG_Practice/Linux/Codo.md)
