@@ -6,7 +6,9 @@
 
 :muscle:[Proving Grounds Practice](https://portal.offsec.com/labs/practice)
 
-:fire::fire::fire: PG Play
+---
+
+<font size=20> :fire::fire::fire: PG Play </font>
 
 ## Easy
 
@@ -74,7 +76,7 @@
 
 ---
 
-:muscle::muscle::muscle: PG Practice
+<font size=20> :muscle::muscle::muscle: PG Practice </font>
 
 ## Linux
 
@@ -87,6 +89,8 @@
 ## Windows
 
 ### Easy
+
+:computer:[Internal](Windows/Internal.md)
 
 :computer:[Kevin](Windows/Kevin.md)
 
