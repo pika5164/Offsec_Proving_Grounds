@@ -76,11 +76,13 @@
 
 ---
 
-# :muscle::muscle::muscle: PG Practice 
+# :muscle::muscle::muscle: PG Practice
 
 ## Linux
 
 ### Easy
+
+:penguin:[Codo](PG_Practice/Linux/Codo.md)
 
 ### Intermediate
 
@@ -90,14 +92,13 @@
 
 ### Easy
 
-:computer:[Kevin](Windows/Algernon.md)
+:computer:[Kevin](PG_Practice/Windows/Algernon.md)
 
-:computer:[Internal](Windows/Internal.md)
+:computer:[Internal](PG_Practice/Windows/Internal.md)
 
-:computer:[Kevin](Windows/Kevin.md)
+:computer:[Kevin](PG_Practice/Windows/Kevin.md)
 
-:computer:[Squid](Windows/Squid.md)
+:computer:[Squid](PG_Practice/Windows/Squid.md)
 
 ### Intermediate
 
-### Hard
