@@ -120,6 +120,8 @@
 
 ### Intermediate
 
+:penguin:[CVE-2023-33831](PG_Practice/Linux/CVE-2023-33831.md)
+
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
 ### Hard
