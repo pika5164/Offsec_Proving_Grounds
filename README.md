@@ -120,6 +120,8 @@
 
 ### Intermediate
 
+:penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
+
 ### Hard
 
 ## Windows
