@@ -122,6 +122,8 @@
 
 :penguin:[CVE-2023-33831](PG_Practice/Linux/CVE-2023-33831.md)
 
+:penguin:[CVE-2023-40582](PG_Practice/Linux/CVE-2023-40582.md)
+
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
 :penguin:[pyLoader](PG_Practice/Linux/pyLoader.md)
