@@ -106,6 +106,8 @@
 
 :penguin:[Pebbles](PG_Practice/Linux/Pebbles.md)
 
+:penguin:[PlanetExpress](PG_Practice/Linux/PlanetExpress.md)
+
 :penguin:[RubyDome](PG_Practice/Linux/RubyDome.md)
 
 :penguin:[Twiggy](PG_Practice/Linux/Twiggy.md)
