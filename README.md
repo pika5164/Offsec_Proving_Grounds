@@ -94,6 +94,8 @@
 
 :penguin:[Exghost](PG_Practice/Linux/Exghost.md)
 
+:penguin:[Fanatastic](PG_Practice/Linux/Fanatastic.md)
+
 :penguin:[Flimsy](PG_Practice/Linux/Flimsy.md)
 
 :penguin:[Hub](PG_Practice/Linux/Hub.md)
