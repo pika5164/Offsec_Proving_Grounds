@@ -128,6 +128,8 @@
 
 :penguin:[Flu](PG_Practice/Linux/Flu.md)
 
+:penguin:[law](PG_Practice/Linux/law.md)
+
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
 :penguin:[plum](PG_Practice/Linux/plum.md)
