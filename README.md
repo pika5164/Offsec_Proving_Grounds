@@ -188,6 +188,8 @@
 
 ### Intermediate
 
+:computer:[Craft](PG_Practice/Windows/Craft.md)
+
 :computer:[DVR4](PG_Practice/Windows/DVR4.md)
 
 :computer:[Slort](PG_Practice/Windows/Slort.md)
