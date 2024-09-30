@@ -148,6 +148,8 @@
 
 :penguin:[pc](PG_Practice/Linux/pc.md)
 
+:penguin:[Pelican](PG_Practice/Linux/Pelican.md)
+
 :penguin:[plum](PG_Practice/Linux/plum.md)
 
 :penguin:[press](PG_Practice/Linux/press.md)
