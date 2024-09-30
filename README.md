@@ -152,6 +152,8 @@
 
 :penguin:[Quackerjack](PG_Practice/Linux/Quackerjack.md)
 
+:penguin:[Snookums](PG_Practice/Linux/Snookums.md)
+
 :penguin:[Sorcerer](PG_Practice/Linux/Sorcerer.md)
 
 :penguin:[Walla](PG_Practice/Linux/Walla.md)
