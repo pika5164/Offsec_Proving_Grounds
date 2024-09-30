@@ -138,6 +138,8 @@
 
 :penguin:[Ochima](PG_Practice/Linux/Ochima.md)
 
+:penguin:[PayDay](PG_Practice/Linux/PayDay.md)
+
 :penguin:[pc](PG_Practice/Linux/pc.md)
 
 :penguin:[plum](PG_Practice/Linux/plum.md)
