@@ -128,6 +128,8 @@
 
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
+:penguin:[plum](PG_Practice/Linux/plum.md)
+
 :penguin:[press](PG_Practice/Linux/press.md)
 
 :penguin:[pyLoader](PG_Practice/Linux/pyLoader.md)
