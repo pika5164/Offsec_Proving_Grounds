@@ -138,6 +138,8 @@
 
 :penguin:[Flu](PG_Practice/Linux/Flu.md)
 
+:penguin:[image](PG_Practice/Linux/image.md)
+
 :penguin:[LaVita](PG_Practice/Linux/LaVita.md)
 
 :penguin:[law](PG_Practice/Linux/law.md)
