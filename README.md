@@ -120,6 +120,8 @@
 
 ### Intermediate
 
+:penguin:[Crane](PG_Practice/Linux/Crane.md)
+
 :penguin:[CVE-2023-33831](PG_Practice/Linux/CVE-2023-33831.md)
 
 :penguin:[CVE-2023-40582](PG_Practice/Linux/CVE-2023-40582.md)
