@@ -144,6 +144,8 @@
 
 :penguin:[pyLoader](PG_Practice/Linux/pyLoader.md)
 
+:penguin:[Quackerjack](PG_Practice/Linux/Quackerjack.md)
+
 ### Hard
 
 ---
