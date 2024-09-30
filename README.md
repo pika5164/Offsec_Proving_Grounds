@@ -120,6 +120,8 @@
 
 ### Intermediate
 
+:penguin:[bullyBox](PG_Practice/Linux/bullyBox.md)
+
 :penguin:[Crane](PG_Practice/Linux/Crane.md)
 
 :penguin:[CVE-2023-6019](PG_Practice/Linux/CVE-2023-6019.md)
