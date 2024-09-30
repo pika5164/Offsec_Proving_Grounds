@@ -156,6 +156,8 @@
 
 :penguin:[ZenPhoto](PG_Practice/Linux/ZenPhoto.md)
 
+:penguin:[Zino](PG_Practice/Linux/Zino.md)
+
 ### Hard
 
 ---
