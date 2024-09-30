@@ -128,6 +128,8 @@
 
 :penguin:[CVE-2023-40582](PG_Practice/Linux/CVE-2023-40582.md)
 
+:penguin:[Fail](PG_Practice/Linux/Fail.md)
+
 :penguin:[Flu](PG_Practice/Linux/Flu.md)
 
 :penguin:[law](PG_Practice/Linux/law.md)
