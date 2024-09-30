@@ -192,6 +192,8 @@
 
 :computer:[DVR4](PG_Practice/Windows/DVR4.md)
 
+:computer:[Jacko](PG_Practice/Windows/Jacko.md)
+
 :computer:[Slort](PG_Practice/Windows/Slort.md)
 
 ### Hard
