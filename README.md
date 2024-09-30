@@ -170,6 +170,8 @@
 
 :penguin:[Sybaris](PG_Practice/Linux/Sybaris.md)
 
+:penguin:[Vanity](PG_Practice/Linux/Vanity.md)
+
 :penguin:[Walla](PG_Practice/Linux/Walla.md)
 
 :penguin:[ZenPhoto](PG_Practice/Linux/ZenPhoto.md)
