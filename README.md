@@ -134,6 +134,8 @@
 
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
+:penguin:[Nibbles](PG_Practice/Linux/Nibbles.md)
+
 :penguin:[Ochima](PG_Practice/Linux/Ochima.md)
 
 :penguin:[pc](PG_Practice/Linux/pc.md)
