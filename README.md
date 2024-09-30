@@ -126,6 +126,8 @@
 
 :penguin:[CVE-2023-40582](PG_Practice/Linux/CVE-2023-40582.md)
 
+:penguin:[Flu](PG_Practice/Linux/Flu.md)
+
 :penguin:[MZEEAV](PG_Practice/Linux/MZEEAV.md)
 
 :penguin:[plum](PG_Practice/Linux/plum.md)
