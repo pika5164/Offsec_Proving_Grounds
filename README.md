@@ -146,6 +146,8 @@
 
 :penguin:[Quackerjack](PG_Practice/Linux/Quackerjack.md)
 
+:penguin:[ZenPhoto](PG_Practice/Linux/ZenPhoto.md)
+
 ### Hard
 
 ---
