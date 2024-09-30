@@ -1,4 +1,4 @@
-###### tags: `Hack the box` `HTB` `Intermediate` `Windows`
+###### tags: `Offsec` `PG Practice` `Intermediate` `Windows`
 
 # Craft
 ```
