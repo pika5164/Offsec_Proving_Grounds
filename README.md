@@ -200,6 +200,8 @@
 
 :computer:[Jacko](PG_Practice/Windows/Jacko.md)
 
+:computer:[Medjed](PG_Practice/Windows/Medjed.md)
+
 :computer:[Slort](PG_Practice/Windows/Slort.md)
 
 ### Hard
