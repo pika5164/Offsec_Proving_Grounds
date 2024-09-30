@@ -166,6 +166,8 @@
 
 :penguin:[Sorcerer](PG_Practice/Linux/Sorcerer.md)
 
+:penguin:[Sybaris](PG_Practice/Linux/Sybaris.md)
+
 :penguin:[Walla](PG_Practice/Linux/Walla.md)
 
 :penguin:[ZenPhoto](PG_Practice/Linux/ZenPhoto.md)
