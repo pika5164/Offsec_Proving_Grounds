@@ -188,6 +188,8 @@
 
 ### Intermediate
 
+:computer:[AuthBy](PG_Practice/Windows/AuthBy.md)
+
 :computer:[Craft](PG_Practice/Windows/Craft.md)
 
 :computer:[DVR4](PG_Practice/Windows/DVR4.md)
