@@ -178,7 +178,9 @@
 
 ### Easy
 
-:computer:[Kevin](PG_Practice/Windows/Algernon.md)
+:computer:[Algernon](PG_Practice/Windows/Algernon.md)
+
+:computer:[Helpdesk](PG_Practice/Windows/Helpdesk.md)
 
 :computer:[Internal](PG_Practice/Windows/Internal.md)
 
