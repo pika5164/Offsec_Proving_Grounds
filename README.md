@@ -202,6 +202,8 @@
 
 :computer:[Medjed](PG_Practice/Windows/Medjed.md)
 
+:computer:[Shenzi](PG_Practice/Windows/Shenzi.md)
+
 :computer:[Slort](PG_Practice/Windows/Slort.md)
 
 ### Hard
