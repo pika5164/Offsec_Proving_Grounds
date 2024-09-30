@@ -152,6 +152,8 @@
 
 :penguin:[Sorcerer](PG_Practice/Linux/Sorcerer.md)
 
+:penguin:[Walla](PG_Practice/Linux/Walla.md)
+
 :penguin:[ZenPhoto](PG_Practice/Linux/ZenPhoto.md)
 
 ### Hard
