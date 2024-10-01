@@ -144,6 +144,8 @@
 
 :penguin:[Fail](PG_Practice/Linux/Fail.md)
 
+:penguin:[Flasky](PG_Practice/Linux/Flasky.md)
+
 :penguin:[Flu](PG_Practice/Linux/Flu.md)
 
 :penguin:[Hunit](PG_Practice/Linux/Hunit.md)
