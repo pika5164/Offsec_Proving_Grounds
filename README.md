@@ -186,6 +186,8 @@
 
 ### Hard
 
+:penguin:[BlackGate](PG_Practice/Linux/BlackGate.md)
+
 ---
 
 ## Windows
