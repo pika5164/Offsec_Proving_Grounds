@@ -166,6 +166,8 @@
 
 :penguin:[Nibbles](PG_Practice/Linux/Nibbles.md)
 
+:penguin:[Nukem](PG_Practice/Linux/Nukem.md)
+
 :penguin:[Ochima](PG_Practice/Linux/Ochima.md)
 
 :penguin:[PayDay](PG_Practice/Linux/PayDay.md)
