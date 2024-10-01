@@ -142,6 +142,8 @@
 
 :penguin:[Depreciated](PG_Practice/Linux/Depreciated.md)
 
+:penguin:[Dibble](PG_Practice/Linux/Dibble.md)
+
 :penguin:[Extplorer](PG_Practice/Linux/Extplorer.md)
 
 :penguin:[Fail](PG_Practice/Linux/Fail.md)
