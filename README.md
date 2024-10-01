@@ -124,6 +124,8 @@
 
 :penguin:[Banzai](PG_Practice/Linux/Banzai.md)
 
+:penguin:[Boolean](PG_Practice/Linux/Boolean.md)
+
 :penguin:[bullyBox](PG_Practice/Linux/bullyBox.md)
 
 :penguin:[Cassios](PG_Practice/Linux/Cassios.md)
