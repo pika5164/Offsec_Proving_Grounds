@@ -132,6 +132,8 @@
 
 :penguin:[CVE-2023-40582](PG_Practice/Linux/CVE-2023-40582.md)
 
+:penguin:[Depreciated](PG_Practice/Linux/Depreciated.md)
+
 :penguin:[Extplorer](PG_Practice/Linux/Extplorer.md)
 
 :penguin:[Fail](PG_Practice/Linux/Fail.md)
