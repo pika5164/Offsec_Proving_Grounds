@@ -228,6 +228,8 @@
 
 :computer:[Nickel](PG_Practice/Windows/Nickel.md)
 
+:computer:[Resourced](PG_Practice/Windows/Resourced.md)
+
 :computer:[Shenzi](PG_Practice/Windows/Shenzi.md)
 
 :computer:[Slort](PG_Practice/Windows/Slort.md)
