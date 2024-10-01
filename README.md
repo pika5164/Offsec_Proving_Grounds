@@ -188,6 +188,8 @@
 
 :penguin:[BlackGate](PG_Practice/Linux/BlackGate.md)
 
+:penguin:[Sirol](PG_Practice/Linux/Sirol.md)
+
 ---
 
 ## Windows
