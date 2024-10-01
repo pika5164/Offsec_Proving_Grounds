@@ -210,6 +210,8 @@
 
 :penguin:[BlackGate](PG_Practice/Linux/BlackGate.md)
 
+:penguin:[Clue](PG_Practice/Linux/Clue.md)
+
 :penguin:[Peppo](PG_Practice/Linux/Peppo.md)
 
 :penguin:[Sirol](PG_Practice/Linux/Sirol.md)
