@@ -184,6 +184,8 @@
 
 :penguin:[Quackerjack](PG_Practice/Linux/Quackerjack.md)
 
+:penguin:[Readys](PG_Practice/Linux/Readys.md)
+
 :penguin:[Rookie Mistake](PG_Practice/Linux/Rookie_Mistake.md)
 
 :penguin:[Roquefort](PG_Practice/Linux/Roquefort.md)
