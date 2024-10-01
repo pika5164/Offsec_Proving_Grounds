@@ -260,6 +260,8 @@
 
 :computer:[Craft2](PG_Practice/Windows/Craft2.md)
 
+:computer:[Heist](PG_Practice/Windows/Heist.md)
+
 :computer:[Vault](PG_Practice/Windows/Vault.md)
 
 :computer:[Vector](PG_Practice/Windows/Vector.md)
