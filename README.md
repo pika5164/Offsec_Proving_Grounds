@@ -146,6 +146,8 @@
 
 :penguin:[Dibble](PG_Practice/Linux/Dibble.md)
 
+:penguin:[Educated](PG_Practice/Linux/Educated.md)
+
 :penguin:[Extplorer](PG_Practice/Linux/Extplorer.md)
 
 :penguin:[Fail](PG_Practice/Linux/Fail.md)
