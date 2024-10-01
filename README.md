@@ -120,6 +120,8 @@
 
 ### Intermediate
 
+:penguin:[Banzai](PG_Practice/Linux/Banzai.md)
+
 :penguin:[bullyBox](PG_Practice/Linux/bullyBox.md)
 
 :penguin:[Cockpit](PG_Practice/Linux/Cockpit.md)
