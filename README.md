@@ -100,6 +100,8 @@
 
 :penguin:[Fractal](PG_Practice/Linux/Fractal.md)
 
+:penguin:[Hawat](PG_Practice/Linux/Hawat.md)
+
 :penguin:[Hub](PG_Practice/Linux/Hub.md)
 
 :penguin:[Levram](PG_Practice/Linux/Levram.md)
