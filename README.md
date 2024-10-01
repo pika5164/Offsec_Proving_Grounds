@@ -210,6 +210,8 @@
 
 :penguin:[Zino](PG_Practice/Linux/Zino.md)
 
+:penguin:[Zipper](PG_Practice/Linux/Zipper.md)
+
 ### Hard
 
 :penguin:[BlackGate](PG_Practice/Linux/BlackGate.md)
