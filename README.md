@@ -150,6 +150,8 @@
 
 :penguin:[Flu](PG_Practice/Linux/Flu.md)
 
+:penguin:[Hetemit](PG_Practice/Linux/Hetemit.md)
+
 :penguin:[Hunit](PG_Practice/Linux/Hunit.md)
 
 :penguin:[image](PG_Practice/Linux/image.md)
