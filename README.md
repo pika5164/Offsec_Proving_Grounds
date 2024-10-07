@@ -58,6 +58,8 @@
 
 :penguin:[Solstice](PG_Play/Solstice.md)
 
+:penguin:[Sumo](PG_Play/Sumo.md)
+
 :penguin:[SunsetDecoy](PG_Play/SunsetDecoy.md)
 
 :penguin:[SunsetNoontide](PG_Play/SunsetNoontide.md)
