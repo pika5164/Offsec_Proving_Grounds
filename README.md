@@ -30,6 +30,8 @@
 
 :penguin:[Empire-breakout](PG_Play/Empire-breakout.md)
 
+:penguin:[EvilBox-One](PG_Play/EvilBox-One.md)
+
 :penguin:[FunboxEasy](PG_Play/FunboxEasy.md)
 
 :penguin:[FunboxEasyEnum](PG_Play/FunboxEasyEnum.md)
