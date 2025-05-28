@@ -13,7 +13,7 @@ PORT     STATE SERVICE REASON  VERSION
 6379/tcp open  redis   syn-ack Redis key-value store 4.0.14
 ```
 
-看到`redis`一樣參考別台靶機的步驟[Wombo](PG_Practice/Linux/Wombo.md)
+看到`redis`一樣參考別台靶機的步驟[Wombo](Wombo.md)
 ```
 ┌──(kali㉿kali)-[~/pgplay]
 └─$ rlwrap -cAr nc -nvlp6379
